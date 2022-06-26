@@ -10,7 +10,7 @@ Hi! I'm **Ansh Bhawnani**. I am currently working as a Security Engineer and als
 	 - Security bug or vulnerability is “a weakness in the computational logic (e.g., code) found in software and hardware components that, when exploited, results in a negative impact to confidentiality, integrity, OR availability.
  - **What is Bug Bounty?**
 	 - A bug bounty or bug bounty  program is IT jargon for a reward or bounty program given for finding and reporting a bug in a particular software product. Many IT companies offer bug bounties to drive product improvement and get more interaction from end users or clients. Companies that operate bug bounty  programs may get hundreds of bug reports, including security bugs and security vulnerabilities, and many who report those bugs stand to receive awards.
-	 -  - **What is the Reward?**
+ - **What is the Reward?**
 	 - There are all types of rewards based on the severity of  the issue and the cost to fix. They may range from real money (most prevalent) to premium subscriptions (Prime/Netflix), discount coupons (for e commerce of shopping sites), gift vouchers, swags (apparels, badges, customized stationery, etc.). *Money may range from 50$ to 50,000$ and even more.*
 
 # What to learn?
@@ -49,8 +49,6 @@ Hi! I'm **Ansh Bhawnani**. I am currently working as a Security Engineer and als
 			 - https://www.youtube.com/watch?v=2PGnYjbYuUo
 			 - https://www.youtube.com/watch?v=e7BufAVwDiM&t=418s
 			 - https://www.youtube.com/watch?v=bYRfRGbqDIw&list=PLkPmSWtWNIyTQ1NX6MarpjHPkLUs3u1wG&index=4
-		 - 
-		 - 
 	 - **Programming**
 		 - **C**
 			 - https://www.youtube.com/watch?v=irqbmMNs2Bo
@@ -68,7 +66,7 @@ Hi! I'm **Ansh Bhawnani**. I am currently working as a Security Engineer and als
 			 - https://www.youtube.com/watch?v=1SnPKhCdlsU
 			 - https://www.youtube.com/watch?v=OK_JCtrrv-c
 			 - https://www.youtube.com/watch?v=T8SEGXzdbYg&t=1329s
-			 - 	 - 
+
 # Where to learn from?
  
  - **Books**
