@@ -183,4 +183,10 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 ![](https://miro.medium.com/max/1400/1*7lVhULTI7ch4uMLEKVZDrA.png)
 
 ### Some additional Tips
-1. 
+1. **Don't do bug bounty as a full time** in the beginning (although I suggest don't do it full time at any point). There is no guarantee to get bugs every other day, there is no stability. Always keep multiple sources of income (bug bounty not being the primary).
+2. **Stay updated**, learning should never stop. Join twitter, follow good people, maintain the curiosity to learn something new every day. Read writeups, blogs and keep expanding your knowledge.
+3. Always see **bug bounty as a medium to enhance your skills**. Money will come only after you have the skills. Take money as a motivation only.
+4. **Don't be dependent on automation**. You can't expect a tool to generate money for you. Automation is everywhere. The key to success in Bug Bounty is to be unique. Build your own methodology, learn from others and apply on your own. 
+5. Always try to escalate the severity of the bug, **keep a broader mindset**.
+6. **Stay connected to the community**. Learn and contribute. There is always someone better than you in something. don't miss an opportunity to network. Join forums, go to conferences and hacking events, meet people, learn from their experiences. 
+7. **Always be helpful**.
