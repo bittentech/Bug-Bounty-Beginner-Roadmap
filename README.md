@@ -88,7 +88,7 @@ Hi! I'm **Ansh Bhawnani**. I am currently working as a Security Engineer and als
 	 - Google VRP Writeups: https://github.com/xdavidhu/awesome-google-vrp-writeups
  - **Blogs and Articles**
 	 - Hacking Articles: https://www.hackingarticles.in/
-	 - Vickie Lo Blogs: https://vickieli.dev/
+	 - Vickie Li Blogs: https://vickieli.dev/
 	 - Bugcrowd Blogs: https://www.bugcrowd.com/blog/
 	 - Intigriti Blogs: https://blog.intigriti.com/
 	 - Portswigger Blogs: https://portswigger.net/blog
@@ -138,10 +138,11 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 	 - XSSGame: https://xss-game.appspot.com/
 	 - BugBountyHunter: https://www.bugbountyhunter.com/ (premium)
 	 - W3Challs : https://w3challs.com/
+
  - **Offline Labs**
 	 - DVWA: https://dvwa.co.uk/
 	 - bWAPP: http://www.itsecgames.com/
-	 - Mwetasploitable2: https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
+	 - Metasploitable2: https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
 	 - BugBountyHunter: https://www.bugbountyhunter.com/ (premium)
 	 - W3Challs : https://w3challs.com/
 
@@ -153,6 +154,7 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 	 - Intigriti: https://www.intigriti.com/
 	 - YesWeHack: https://www.yeswehack.com/
 	 - OpenBugBounty: https://www.openbugbounty.org/
+
  - **Individual** **Programs**
 	 - Meta: https://www.facebook.com/whitehat
 	 - Google: https://about.google/appsecurity/
@@ -161,20 +163,23 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 
  - **Title**
 	 - The first impression is the last impression, the security engineer
-   looks the Title first and he can understand what is the issue? 
+   looks at the title first and he should be able to identify the issue.
    - Write about what kind of functionality you can able to abuse or what kind
    of protection you can bypass. Write in just one line.
-   - Include the Impact of the issue in the title if possible
+   - Include the Impact of the issue in the title if possible.
 
  - **Description**
 	 - This component provides details of the vulnerability, you can explain the vulnerability here, write about the paths, endpoints, error messages you got while testing. You can also attach HTTP requests, vulnerable source code.
+
  - **Steps to Reproduce**
 	 - Write the stepwise process to recreate the bug. It is important for an app owner to be able to verify what you've found and understand the scenario.
 	 - You must write each step clearly in-order to demonstrate the issue. that helps security engineers to triage fast.
+
  - **Proof of Concept**
 	 - This component is the visual of the whole work. You can record a demonstration video or attach screenshots.
+
  - **Impact**
-	 - Write about the real-life impact, How an attacker can take advantage if he successfully exploits the vulnerability. 
+	 - Write about the real-life impact, How an attacker can take advantage if he/she successfully exploits the vulnerability. 
 	 - What type of possible damages could be done? (avoid writing about the theoretical impact)
 	 - Should align with the business objective of the organization
 
@@ -187,6 +192,7 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 2. **Stay updated**, learning should never stop. Join twitter, follow good people, maintain the curiosity to learn something new every day. Read writeups, blogs and keep expanding your knowledge.
 3. Always see **bug bounty as a medium to enhance your skills**. Money will come only after you have the skills. Take money as a motivation only.
 4. **Don't be dependent on automation**. You can't expect a tool to generate money for you. Automation is everywhere. The key to success in Bug Bounty is to be unique. Build your own methodology, learn from others and apply on your own. 
-5. Always try to escalate the severity of the bug, **keep a broader mindset**.
+5. Always try to escalate the severity of the bug, **Keep a broader mindset**. An RCE always has higher impact than arbitrary file upload.
+6. It's not necessary that a vulnerability will be rewarded based on the industry defined standard impact. The asset owners rate the issue with a risk rating, often calculated as impact * likelyhood (exploitability). For example, an SQL Injection by default has a Critical impact, but if the application is accessible only inside the organization VPN and doesn't contain any user data/PII in the database, the likelyhood of the exploitation is reduced, so does the risk.
 6. **Stay connected to the community**. Learn and contribute. There is always someone better than you in something. don't miss an opportunity to network. Join forums, go to conferences and hacking events, meet people, learn from their experiences. 
 7. **Always be helpful**.
